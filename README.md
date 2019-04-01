@@ -1,2 +1,2 @@
-# hexo-theme-melody
-A hexo theme named melody
+# hexo-theme-slash
+A hexo theme named slash
